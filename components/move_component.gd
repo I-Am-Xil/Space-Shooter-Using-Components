@@ -1,7 +1,6 @@
 class_name MoveComponent
 extends Node
 
-
 @export var actor: Node2D
 @export var velocity: Vector2
 
